@@ -122,6 +122,12 @@ header .fa-phone {
   font-size: 17px;
 }
 
+.fa-f {
+  color: #f4b214;
+  font-size: 19px;
+  padding-right: 9px;
+}
+
 header .top-bar {
   background: #dee2e6;
 }
@@ -167,6 +173,11 @@ header .top-bar .social li a {
     padding-right: 10px;
     width: inherit;
   }
+
+  header .nav-phone-panel {
+    display: none;
+  }
+
 }
 
 header .top-bar .social li a:hover {
