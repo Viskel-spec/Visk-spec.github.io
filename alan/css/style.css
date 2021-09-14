@@ -336,6 +336,7 @@ header .navbar .cta-btn a:hover {
   }
 }
 
+
 .custom-icon {
   font-size: 70px;
   color: #f4b214;
@@ -606,6 +607,12 @@ header .navbar .cta-btn a:hover {
 @media (max-width: 991px) {
   .cta-link .heading {
     font-size: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .cta-overlap {
+    margin-top: 0em;
   }
 }
 
